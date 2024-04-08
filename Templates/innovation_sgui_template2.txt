@@ -1,0 +1,27 @@
+DI_culture_has_{{keyword2}} = {
+	scope = culture
+
+	is_valid = {
+		has_innovation = {{keyword2}}
+	}
+}
+
+DI_add_{{keyword2}} = {
+	scope = character
+
+	effect = {
+		var:DI_innovation_selected_culture = {
+			add_innovation = {{keyword2}}
+		}
+	}
+}
+
+DI_remove_{{keyword2}} = {
+	scope = character
+
+	effect = {
+		var:DI_innovation_selected_culture = {
+			remove_innovation = {{keyword2}}
+		}
+	}
+}

@@ -1,0 +1,1 @@
+	if = { limit = { NOT = { has_innovation = {{keyword2}} } } add_innovation = {{keyword2}} }
