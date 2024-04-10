@@ -1,1 +1,1 @@
-Wrong template bozo.
+Wrong template bozo. Two innovation template appends two innovations side by side into an hbox. Single innovation template appends a single innovation in an hbox.
